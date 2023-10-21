@@ -1,7 +1,7 @@
 
 a = "This is a python string"
-b = 7 % 3
-c = 55 * 234
+b = int(7 % 3)
+c = int(55 * 234)
 name1 = "KCGI"
 name2 = "Kyoto"
 d = "KCGI" + ' @ ' + "Kyoto"
