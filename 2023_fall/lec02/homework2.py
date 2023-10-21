@@ -1,7 +1,5 @@
 
 a = "This is a python string"
-b = int(7 % 3)
-c = int(55 * 234)
 b = 7 % 3
 c = 55 * 234
 name1 = "KCGI"
