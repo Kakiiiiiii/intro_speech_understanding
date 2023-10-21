@@ -13,4 +13,3 @@ h = str(-23.0)
 i = float(False)
 j = bool("Python")
 k = "global" + "_squ"
-
