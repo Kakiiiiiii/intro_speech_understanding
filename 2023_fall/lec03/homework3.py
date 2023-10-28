@@ -1,10 +1,12 @@
 
 
+def cancellation(input_list, stop_word):
     '''
     Copy elements one by one from input_list into output_list. 
     If one of the elements is equal to the stop_word, then stop the function,
     and return what you have so far.
     '''
+    output_list = []
     for x in input_list:
         if x == stop_word:
             break
