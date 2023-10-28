@@ -5,7 +5,6 @@
     If one of the elements is equal to the stop_word, then stop the function,
     and return what you have so far.
     '''
-    pass
     for x in input_list:
         if x == stop_word:
             break
